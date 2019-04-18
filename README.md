@@ -1,5 +1,5 @@
-# cat-vs-dog-cnn-
-image classifiyusing between cat and dog by using convolutional neural network.
+# Cat-vs-Dog-cnn-
+image classification between cat and dog by using Convolutional Neural Network (CNN).
 # Initialization requirement:
 1. tensorflow
 2. Keras
